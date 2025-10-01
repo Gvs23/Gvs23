@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Venkata Siva Teja 👋  
+🚀 Data Analyst | Power BI Developer | SQL Enthusiast  
 
-<!--
-**Gvs23/Gvs23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 I love solving real-world problems using data — from cleaning messy datasets to building dashboards that drive business insights.  
 
-Here are some ideas to get you started:
+### 💼 About Me
+- 🎓 B.Tech in Computer Science & Systems Engineering (Sree Vidyanikethan Engineering College)  
+- 📊 Experienced in **Power BI, SQL, Python (Pandas, NumPy, Matplotlib), and Excel**  
+- 💡 Skilled in **data cleaning, dashboard design, KPI tracking, and predictive modeling**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Work Experience
+- Working as **Power BI Intern** in **Cognifyz Technologies**
+- Worked as **Business Development Associate** at **Premier Info City Pvt. Ltd.**
+
+### 🛠️ Tech Stack
+- **Languages:** Python, SQL, HTML, CSS  
+- **Data Analysis:** Pandas, NumPy, Scikit-learn, Excel (Power Pivot)  
+- **Visualization & BI:** Power BI, DAX, Power Query, Matplotlib  
+- **Automation:** VBA/Macros  
+- **Tools:** SSMS, Jupyter, Visual Studio  
+
+### 📌 Featured Projects
+- **📊 Quantified Self Productivity Dashboard**  
+  → SQL + Power BI pipeline tracking digital activities, improving productivity by 17%.  
+
+- **📈 Sales Insights Dashboard**  
+  → 500k+ records analyzed with Power BI, boosting sales efficiency by 25%.  
+
+- **📉 Stock Market Prediction**  
+  → ML models (SVM, Regression, Decision Trees) achieving 89% accuracy.  
+
+
+### 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/venkata-siva-teja-gilaka/)  
+- 📧 shivateja6388@gmail.com  
+
+⭐️ *Always learning, always building with data.*  
