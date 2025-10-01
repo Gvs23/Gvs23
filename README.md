@@ -1,5 +1,4 @@
 # Hi, I'm Venkata Siva Teja 👋  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-green)](https://github.com/VenkataSivaTeja)
 🚀 Data Analyst | Power BI Developer | SQL Enthusiast  
 
 🔍 I love solving real-world problems using data — from cleaning messy datasets to building dashboards that drive business insights.  
